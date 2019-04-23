@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+}
+
+.block-1 {
+    height: 600px;
+    width: 600px;
+    align-items: flex-end;
+    flex-shrink: 1;
+}
+
+.box {
+    height: 300px;
+    margin: 10px;
+    background-color: pink;
+    font-size: 100px;
+}
+
+.three {
+    width: 300px;
+}
+
+.five {
+    width: 500px;
+}
+
+p {
+    align-content: center;
+}
